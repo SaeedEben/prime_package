@@ -1,0 +1,15 @@
+{
+    "name": "vicgonvt/prime",
+    "description": "A package for make prime numbers",
+    "license": "eben",
+    "authors": [
+        {
+            "name": "Saeedeben",
+            "email": "s.ebrahimzade90@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^6.0"
+    }
+}
